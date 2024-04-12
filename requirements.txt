@@ -1,0 +1,15 @@
+torch==1.11.0
+numpy
+pandas
+colorama
+PyYAML
+torchvision
+scikit-learn
+terminaltables
+scipy
+ruamel.yaml
+scipy
+scikit
+tensorboard
+tqdm
+
