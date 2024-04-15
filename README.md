@@ -1,7 +1,7 @@
 # MES-RelationGCN
-This repo is the implementation of our paper "Micro-Expression Spotting with Relation-aware Graph Convolutional Network in Long Videos"
+This repo is the implementation of our paper "MER-RANet: Two-stage Relation-aware Network for Macro and Micro-Expression Spotting in Long Videos"
 # Experiment environment 
-OS: ArchLinux 
+OS: Ubuntu
 
 Python: 3.9
 
