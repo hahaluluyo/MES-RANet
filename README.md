@@ -15,7 +15,7 @@ The feature files can be download from [baidunetdisk](https://pan.baidu.com/s/11
 
 password: h214
 
-The feature files contains SAMM and CAS(ME)^2: Features are calculated with stride=2.
+The feature files contain SAMM and CAS(ME)^2: Features are calculated with stride=2.
 
 # Training and evaluation
 Run main.py
