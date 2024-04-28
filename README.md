@@ -15,7 +15,7 @@ The feature files can be download from [baidunetdisk](https://pan.baidu.com/s/11
 
 password: h214
 
-After downloading the feature files, the  variables of feature path, `feature_root` and `segment_feat_root`
+The feature files contains SAMM and CAS(ME)^2: Features are calculated with stride=2.
 
 # Training and evaluation
 Run main.py
